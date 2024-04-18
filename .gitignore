@@ -1,0 +1,5 @@
+.vscode
+*/.vscode
+*/*.o
+.gitignore
+ex01/test.sh
